@@ -1,2 +1,2 @@
-# sacolao
-sistema de delivery de um sacolão tradicional
+# carrinho-compra
+atividade utilizando cookies
